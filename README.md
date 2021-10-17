@@ -6,3 +6,4 @@ made while other work was stashed
 
 This line is to dirty the tree
 
+Change made as collaborator
